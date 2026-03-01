@@ -1,0 +1,36 @@
+﻿  CapaPresentacion.cpp
+  CercadoraCompres.cpp
+  CercadoraConte.cpp
+  CercadoraElemCompra.cpp
+  CercadoraPaquet.cpp
+  CercadoraUsuari.cpp
+  CercadoraVideojoc.cpp
+  Contenedor_linea.cpp
+  CtrlModificaUsuari.cpp
+  Implementacio.cpp
+  PassarelaCompra.cpp
+  PassarelaConte.cpp
+  PassarelaElemCompra.cpp
+  PassarelaPaquet.cpp
+  PassarelaUsuari.cpp
+  PassarelaVideojoc.cpp
+  TxComprarPaquet.cpp
+  TxCompraVideojoc.cpp
+  TxConsultaNovetatsVideojocs.cpp
+  TxConsultaPaquet.cpp
+  Generando código...
+  Compilando...
+  TxConsultaPaquets.cpp
+  TxConsultaUsuari.cpp
+  TxConsultaVideojoc.cpp
+  TxConsultaVideojocs.cpp
+  TxConsultaVideojocsEdat.cpp
+  TxEsborraUsuari.cpp
+  TxInfoCompra.cpp
+  TxInfoCompres.cpp
+  TxIniciaSessio.cpp
+  TxRegistraUsuari.cpp
+  TxTancaSessio.cpp
+  Videoconsola.cpp
+  Generando código...
+  Implementacio.vcxproj -> C:\Users\Gerard\Desktop\Proyecto INEP\x64\Debug\Implementacio.exe
